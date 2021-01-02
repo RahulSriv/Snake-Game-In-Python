@@ -1,2 +1,2 @@
 # Snake-Game-In-Python
-A simple snake game written in Python using the PyGame library.
+A simple snake game written in Python by using the PyGame library.
